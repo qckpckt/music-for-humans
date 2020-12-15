@@ -19,4 +19,4 @@ Artist A: ((1 - .1)/100) * 20 = $0.18
 Artists B and C: ((1 - .1)/100) * 40 = $0.36
 ```
 
-This means that the act of listening to an artist is now also an act of supporting their career, directly.
+This means that the act of listening to an artist is now also an act of supporting their career.
